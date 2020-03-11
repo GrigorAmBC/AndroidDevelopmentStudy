@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RealmApp</string>
+    <string name="add">add</string>
+    <string name="show_dogs">Show dogs</string>
+</resources>

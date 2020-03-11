@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Instagram clone</string>
+    <string name="or_signup">Or, Signup</string>
+    <string name="or_login">Or, Login</string>
+    <string name="signup">signup</string>
+    <string name="login">login</string>
+    <string name="enter_password">Enter password...</string>
+    <string name="enter_username">Enter username...</string>
+    <string name="share">Share</string>
+    <string name="logout">Logout</string>
+</resources>

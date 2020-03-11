@@ -1,0 +1,4 @@
+We need an app that loads sexy lady images into a grid from a server that contains such images and
+when we click on an image, we open up a fragment that shows this image and provides some features
+such as sharing the image, like, download (can be accessed via the app). Starting activity where a
+password is requested, feature activity with its functionality like showing downloaded images.
